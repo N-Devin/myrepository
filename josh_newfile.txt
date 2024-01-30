@@ -1,1 +1,1 @@
-This is a new file I am adding to my forked repository.
+Now I am changing this file to new text
